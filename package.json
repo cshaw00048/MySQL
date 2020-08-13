@@ -1,0 +1,28 @@
+{
+    "name": "mysql",
+    "version": "1.0.0",
+    "description": "Homework for week 12",
+    "main": "BamazonCustomer.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cshaw00048/mysql.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/cshaw00048/mysql/issues"
+    },
+    "homepage": "https://github.com/cshaw00048/mysql/readme",
+    "dependencies": {
+      "chalk": "^4.0.0",
+      "cli-table3": "^0.6.0",
+      "inquirer": "^7.1.0",
+      "mysql": "^2.18.1",
+      "prompt": "^1.0.0"
+    }
+  }
+  
